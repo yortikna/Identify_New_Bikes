@@ -99,7 +99,7 @@ The project uses various dependencies and libraries to facilitate automation.
  
 ## Author Information
  
-- *Satrajit Saha Roy*
+- *Ankit Roy*
  
 ## Disclaimer
  
